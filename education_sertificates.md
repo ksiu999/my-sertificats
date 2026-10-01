@@ -1,5 +1,13 @@
 # Мои документы об обучении
 
+1. Удостоверение повышения квалификации:
+
+![title1](img/ksiu_doc2.jpg)
+
+![title](img/ksiu_doc1.jpg)
+
+![dop1](img/ksiu_doc3.jpg) ![dop2](img/ksiu_doc4.jpg)
+
 1. Сертификат "Нетология" ИИ GigaChat:
 
 ![GigaChat](img/GigaChat.jpg)

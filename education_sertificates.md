@@ -12,6 +12,6 @@
 
 ![AI_TTL](img/certificate_netology.jpg)
 
-2. Сертификат "Нетология" ИИ:
+2. Сертификат "Нетология" тестировщик:
 
-![test](img/certificat_test.jpg)
+![test](img/certificate_test.jpg)

@@ -4,6 +4,14 @@
 
 ![GigaChat](img/GigaChat.jpg)
 
-1. Сертификат "Нетология" ИИ:
+2. Сертификат "Нетология" ИИ:
 
-![GigaChat](img/certificat_AI.png)
+![AI_education](img/certificat_AI.png)
+
+2. Сертификат "Нетология" ИИ:
+
+![AI_TTL](img/certificate_netology.jpg)
+
+2. Сертификат "Нетология" ИИ:
+
+![test](img/certificat_test.jpg)

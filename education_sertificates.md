@@ -27,3 +27,15 @@
 6. Сертификат "Нетология" тестировщик:
 
 ![test](img/certificate_test.jpg)
+
+7. Удостоверение повышения квалификации:
+
+![diplom1](img/ksiu_ano_2.jpg)
+
+![diplom2](img/ksiu_ano_2.jpg)
+
+![diplom3](img/ksiu_ano_3.jpg)
+
+![diplom4](img/ksiu_ano_4.jpg)
+
+![diplom5](img/ksiu_ano_5.jpg)

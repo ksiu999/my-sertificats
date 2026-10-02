@@ -30,12 +30,12 @@
 
 7. Удостоверение повышения квалификации:
 
-![diplom1](img/ksiu_ano_2.jpg)
+![diplom1](img/ksiu-ano1.jpg)
 
-![diplom2](img/ksiu_ano_2.jpg)
+![diplom2](img/ksiu-ano_2.jpg)
 
-![diplom3](img/ksiu_ano_3.jpg)
+![diplom3](img/ksiu-ano_3.jpg)
 
-![diplom4](img/ksiu_ano_4.jpg)
+![diplom4](img/ksiu-ano_4.jpg)
 
-![diplom5](img/ksiu_ano_5.jpg)
+![diplom5](img/ksiu-ano_5.jpg)

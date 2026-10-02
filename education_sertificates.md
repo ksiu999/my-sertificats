@@ -8,18 +8,22 @@
 
 ![dop1](img/ksiu_doc3.jpg) ![dop2](img/ksiu_doc4.jpg)
 
-1. Сертификат "Нетология" ИИ GigaChat:
+2. Сертификат "Нетология" ИИ GigaChat:
 
 ![GigaChat](img/GigaChat.jpg)
 
-2. Сертификат "Нетология" ИИ:
+3. Сертификат "Нетология" ИИ:
 
 ![AI_education](img/certificat_AI.png)
 
-2. Сертификат "Нетология" ИИ:
+4. Сертификат "Нетология" ИИ:
 
 ![AI_TTL](img/certificate_netology.jpg)
 
-2. Сертификат "Нетология" тестировщик:
+5. Сертификат "Нетология" ИИ:
+
+![AI_TTL](img/ksiu-certificate_life_ai.jpg)
+
+6. Сертификат "Нетология" тестировщик:
 
 ![test](img/certificate_test.jpg)
